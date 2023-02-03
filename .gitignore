@@ -57,6 +57,9 @@ lib/
 src/jest/mock.ts
 node_modules
 
-# personal 
+# personal
 .env
 .npmrc
+
+yarn.lock
+yarn-error.log
